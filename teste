@@ -1,0 +1,5 @@
+#mostrar uma mensagwem pedindo o nome
+
+print('ola, como você se chama?')
+
+nome = input()
